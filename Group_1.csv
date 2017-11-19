@@ -1,0 +1,28 @@
+Food Item,Type,Category,Fats,Carbohydrates,Protein,Total Calories
+"CHEESE,COTTAGE,NONFAT,UNCRMD,DRY,LRG OR SML CURD",Vegetarian,Milk and Milk Products,0.42,1.85,17.27,80.26
+"CHEESE,COTTAGE,LOWFAT,2% MILKFAT",Vegetarian,Milk and Milk Products,1.93,3.63,13.74,86.85
+"CHEESE,COTTAGE,LOWFAT,1% MILKFAT",Vegetarian,Milk and Milk Products,1.02,2.72,12.39,69.62
+"EGG,WHITE,RAW,FRESH",eggetarian,Poultry products,0,1.03,10.52,46.2
+"EGG SUBSTITUTE,LIQUID",eggetarian,Poultry products,3.31,0.64,12,80.35
+"EGG,WHITE,RAW,FROZEN",eggetarian,Milk and Milk Products,0,1.05,9.8,43.4
+"CHEESE,CREAM,FAT FREE",Vegetarian,Milk and Milk Products,1.36,5.8,14.41,93.08
+"CHICKEN,LIVER,ALL CLASSES,RAW",Non-vegetarian,Meat products,3.86,3.42,17.97,120.3
+"TURKEY RST,BONELESSFROZEN,SEASONED,LT&DK MEAT,RAW",Non-vegetarian,Meat products,2.2,6.4,17.6,115.8
+"OSCAR MAYER,BOLOGNA (FAT FREE)",Non-vegetarian,Meat products,0.6,6,12.6,79.8
+"OSCAR MAYER,HAM (H2O ,BKD CKD 96% FAT FREE)",Non-vegetarian,Meat products,3.7,1,16.5,103.3
+"OSCAR MAYER,HAM (H2O ,BLD)",Non-vegetarian,Meat products,3.7,1.2,16.6,104.5
+"OSCAR MAYER,HAM (H2O ,HONEY)",Non-vegetarian,Meat products,3.5,3.1,16.7,110.7
+"OSCAR MAYER,HAM (H2O ,SMOKED,COOKED)",Non-vegetarian,Meat products,3.6,0.1,16.6,99.2
+"OSCAR MAYER,HAM (40%HAM/WATER PRODUCT,SMOKED,FAT FREE)",Non-vegetarian,Meat products,0.7,1.9,14.6,72.3
+"OSCAR MAYER,TURKEY BREAST (SMOKED,FAT FREE)",Non-vegetarian,Meat products,0.6,3.6,14.9,79.4
+"OSCAR MAYER,WIENERS (BF FRANKS,FAT FREE)",Non-vegetarian,Meat products,0.5,5.1,13.2,77.7
+"OSCAR MAYER,WIENERS (FAT FREE HOT DOGS)",Non-vegetarian,Meat products,0.6,4.3,12.6,73
+"LOUIS RICH,TURKEY BREAST&WHITE TURKEY (OVEN RSTD)",Non-vegetarian,Meat products,1.9,3.7,16.5,97.9
+"LOUIS RICH,TURKEY BREAST&WHITE TURKEY (SMOKED SLICED)",Non-vegetarian,Meat products,2.3,2.4,17.6,100.7
+"LOUIS RICH,TURKEY BREAST (OVEN RSTD,FAT FREE)",Non-vegetarian,Meat products,0.7,4.5,15,84.3
+"PORK,FRSH,VAR MEATS&BY-PRODUCTS,KIDNEYS,RAW",Non-vegetarian,Meat products,3.25,0,16.46,95.09
+"PORK,FRSH,VAR MEATS&BY-PRODUCTS,LUNGS,RAW",Non-vegetarian,Meat products,2.72,0,14.08,80.8
+"PORK,FRSH,VAR MEATS&BY-PRODUCTS,LUNGS,COOKED,BRSD",Non-vegetarian,Meat products,3.1,0,16.6,94.3
+"PORK,FRSH,VAR MEATS&BY-PRODUCTS,SPLEEN,RAW",Non-vegetarian,Meat products,2.59,0,17.86,94.75
+"HORMEL ALWAYS TENDER,PORK TENDERLOIN,PEPPERCORN-FLAVORED",Non-vegetarian,Meat products,3.8,1.82,17.21,110.32
+"HORSERADISH-TREE LEAFY TIPS,RAW",vegetarian,Other vegetables,1.4,8.28,9.4,83.32

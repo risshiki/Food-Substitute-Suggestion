@@ -1,0 +1,11 @@
+Food Item,Type,Category,Fats,Carbohydrates,Protein,Total Calories
+"CHICKEN,BROILERS OR FRYERS,SKN ONLY,RAW",Non-vegetarian,Meat products,32.35,0,13.33,344.47
+"CHICKEN,BROILERS OR FRYERS,SKN ONLY,COOKED,STEWED",Non-vegetarian,Meat products,33.04,0,15.22,358.24
+"GOOSE,DOMESTICATEDESTICATED,MEAT&SKIN,RAW",Non-vegetarian,Meat products,33.62,0,15.86,366.02
+"TURKEY,YOUNG TOM,SKN ONLY,RAW",Non-vegetarian,Meat products,34.56,0,13.24,364
+BLOOD SAUSAGE,Non-vegetarian,Meat products,34.48,1.28,14.61,373.88
+"BRAUNSCHWEIGER (A LIVER SAUSAGE),PORK",Non-vegetarian,Meat products,32.09,3.13,13.5,355.33
+"LUNCHEON MEAT,PORK,BEEF",Non-vegetarian,Meat products,32.16,2.33,12.59,349.12
+"PORK,FRSH,CARCASS,LN&FAT,RAW",Non-vegetarian,Meat products,35.07,0,13.91,371.27
+"PORK,FRSH,VAR MEATS&BY-PRODUCTS,TAIL,RAW",Non-vegetarian,Meat products,33.5,0,17.75,372.5
+"PORK,FRSH,VAR MEATS&BY-PRODUCTS,TAIL,COOKED,SIMMERED",Non-vegetarian,Meat products,35.8,0,17,390.2

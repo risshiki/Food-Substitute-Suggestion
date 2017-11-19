@@ -1,0 +1,8 @@
+Food Item,Type,Category,Fats,Carbohydrates,Protein,Total Calories
+"SOUP,BEEF BROTH,CUBED,DRY",Non-vegetarian,Miscellaneous,4,16.1,17.3,169.6
+"SOYBEANS,GREEN,RAW",vegetarian,Other vegetables,6.8,11.05,12.95,157.2
+"SOYBEANS,GRN,COOKED,BLD,DRND,WO/SALT",vegetarian,Other vegetables,6.4,11.05,12.35,151.2
+"SOYBEANS,MATURE SEEDS,SPROUTED,RAW",vegetarian,Other vegetables,6.7,9.57,13.09,150.94
+"SOYBEANS,MATURE SEEDS,SPROUTED,COOKED,STIR-FRIED",vegetarian,Other vegetables,7.1,9.4,13.1,153.9
+"SOYBEANS,GRN,COOKED,BLD,DRND,W/SALT",vegetarian,Other vegetables,6.4,11.05,12.35,151.2
+"SOYBEANS,MATURE SEEDS,SPROUTED,COOKED,STIR-FRIED,W/SALT",vegetarian,Other vegetables,7.1,9.4,13.1,153.9

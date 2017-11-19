@@ -1,0 +1,28 @@
+Food Item,Type,Category,Fats,Carbohydrates,Protein,Total Calories
+"CHEESE,COTTAGE,CRMD,LRG OR SML CURD",Vegetarian,Milk and Milk Products,4.51,2.68,12.49,101.27
+"CHEESE,RICOTTA,PART SKIM MILK",Vegetarian,Milk and Milk Products,7.91,5.14,11.39,137.31
+"BABYFOOD,MEAT,BF,STRAINED",Non-vegetarian,Miscellaneous,5.4,0,13.6,103
+"BABYFOOD,MEAT,BEEF,JUNIOR",Non-vegetarian,Miscellaneous,4.9,0,14.5,102.1
+"BABYFOOD,MEAT,VEAL,STRAINED",Non-vegetarian,Miscellaneous,4.8,0,13.5,97.2
+"BABYFOOD,MEAT,VEAL,JUNIOR",Non-vegetarian,Miscellaneous,5,0,15.3,106.2
+"BABYFOOD,MEAT,PORK,STRAINED",Non-vegetarian,Miscellaneous,7.1,0,14,119.9
+"BABYFOOD,MEAT,HAM,STRAINED",Non-vegetarian,Miscellaneous,5.8,0,13.9,107.8
+"BABYFOOD,MEAT,HAM,JUNIOR",Non-vegetarian,Miscellaneous,6.7,0,15.1,120.7
+"BABYFOOD,MEAT,LAMB,STRAINED",Non-vegetarian,Miscellaneous,4.7,0.1,14.1,99.1
+"BABYFOOD,MEAT,LAMB,JUNIOR",Non-vegetarian,Miscellaneous,5.2,0,15.2,107.6
+"BABYFOOD,MEAT,CHICKEN,STRAINED",Non-vegetarian,Miscellaneous,7.9,0.1,13.7,126.3
+"BABYFOOD,MEAT,TURKEY,STRAINED",Non-vegetarian,Miscellaneous,5.8,0.1,14.3,109.8
+"BABYFOOD,MEAT,TURKEY,JUNIOR",Non-vegetarian,Miscellaneous,7.1,0,15.4,125.5
+"CHICKEN,BROILERS OR FRYERS,GIBLETS,RAW",Non-vegetarian,Meat products,4.47,1.8,17.88,118.95
+"GOOSE,LIVER,RAW",Non-vegetarian,Meat products,4.28,6.32,16.37,129.28
+"SQUAB,(PIGEON),MEAT ONLY,RAW",Non-vegetarian,Meat products,7.5,0,17.5,137.5
+"USDA COMMODITY,TURKEY HAM,DK MEAT,SMOKEDFROZEN,HTD",Non-vegetarian,Miscellaneous,4,3.1,16.3,113.6
+"HONEY LOAF,PORK,BEEF",Non-vegetarian,Meat products,4.47,5.33,15.77,124.63
+"PEPPERED LOAF,PORK,BEEF",Non-vegetarian,Meat products,6.37,4.6,17.27,144.81
+"NEW ENGLAND BRAND SAUSAGE,PORK,BF",Non-vegetarian,Meat products,7.58,4.83,17.27,156.62
+"LOUIS RICH,CHICKEN (WHITE,OVEN RSTD)",Non-vegetarian,Meat products,5.6,2.3,17,127.6
+"PORK,FRSH,VAR MEATS&BY-PRODUCTS,HEART,RAW",Non-vegetarian,Meat products,4.36,1.33,17.27,113.64
+"PORK,CURED,HAM,EX LN&REG,CANNED,UNHTD",Non-vegetarian,Meat products,7.46,0,17.97,139.02
+"USDA COMMODITY,PORK,CURED,HAM,BONELESS,COOKED,UNHTD",Non-vegetarian,Meat products,6.16,0.69,17.44,127.96
+"HORMEL ALWAYS TENDER,PORK LOIN FILETS,LEMON GARLIC-FLAVORED",Non-vegetarian,Meat products,4.16,1.79,17.83,115.92
+HORMEL CANADIAN STYLE BACON,Non-vegetarian,Meat products,4.94,1.87,16.88,119.46

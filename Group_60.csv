@@ -1,0 +1,7 @@
+Food Item,Type,Category,Fats,Carbohydrates,Protein,Total Calories
+"SOUP,LIPTON,RECIPE SECRETS ONION,MIX,DRY",vegetarian,Miscellaneous,1.9,61.55,6.58,289.62
+"SOUP,LIPTON,RECIPE SECRETS BEEFY MUSHROOM,MIX,DRY",Non-vegetarian,Miscellaneous,3.43,60.22,7.76,302.79
+"APRICOTS,DRIED,SULFURED,UNCOOKED",vegetarian,Fruits,0.46,61.75,3.65,265.74
+"PEACHES,DRIED,SULFURED,UNCOOKED",vegetarian,Fruits,0.76,61.33,3.61,266.6
+"PRUNES,DRIED,UNCOOKED",vegetarian,Fruits,0.52,62.73,2.61,266.04
+"TAMARINDS,RAW",vegetarian,Fruits,0.6,62.5,2.8,266.6

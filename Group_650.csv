@@ -1,0 +1,22 @@
+Food Item,Type,Category,Fats,Carbohydrates,Protein,Total Calories
+"CHEESE,BRIE",Vegetarian,Milk and Milk Products,27.68,0.45,20.75,333.92
+"CHEESE,CAMEMBERT",Vegetarian,Milk and Milk Products,24.26,0.46,19.8,299.38
+"CHEESE,EDAM",Vegetarian,Milk and Milk Products,27.8,1.43,24.99,355.88
+"CHEESE,GOUDA",Vegetarian,Milk and Milk Products,27.44,2.22,24.94,355.6
+"CHEESE,LIMBURGER",Vegetarian,Milk and Milk Products,27.25,0.49,20.05,327.41
+"CHEESE,MOZZARELLA,WHL MILK,LO MOIST",Vegetarian,Milk and Milk Products,24.64,2.47,21.6,318.04
+"CHEESE,PROVOLONE",Vegetarian,Milk and Milk Products,26.62,2.14,25.58,350.46
+"CHEESE,TILSIT",Vegetarian,Milk and Milk Products,25.98,1.88,24.41,338.98
+"CHEESE,PAST PROCESS,SWISS,W/DI NA PO4",Vegetarian,Milk and Milk Products,25.01,2.1,24.73,332.41
+"CHEESE FD,COLD PK,AMERICAN",Vegetarian,Milk and Milk Products,24.46,8.32,19.66,332.06
+"CHEESE FD,PAST PROCESS,AMERICAN,WO/DI NA PO4",Vegetarian,Milk and Milk Products,24.6,7.29,19.61,329
+"CHEESE FD,PAST PROCESS,SWISS",Vegetarian,Milk and Milk Products,24.14,4.5,21.92,322.94
+"CHEESE,PAST PROCESS,SWISS,WO/DI NA PO4",Vegetarian,Milk and Milk Products,25.01,2.1,24.73,332.41
+"CHEESE FD,PAST PROCESS,AMERICAN,W/DI NA PO4",Vegetarian,Milk and Milk Products,24.6,7.29,19.61,329
+"ITALIAN SAUSAGE,COOKED,PORK",Non-vegetarian,Meat products,25.7,1.5,20.03,317.42
+"PORK,FRSH,LOIN,BLADE (CHOPS),BONE-IN,LN&FAT,COOKED,BRSD",Non-vegetarian,Meat products,25.43,0,21.91,316.51
+"PORK,FRSH,LOIN,BLADE (CHOPS),BONE-IN,LN&FAT,COOKED,BRLD",Non-vegetarian,Meat products,24.85,0,22.47,313.53
+"PORK,FRSH,LOIN,BLADE (ROASTS),BONE-IN,LN&FAT,COOKED,ROASTED",Non-vegetarian,Meat products,24.63,0,23.72,316.55
+"PORK,FRSH,SHLDR,ARM PICNIC,LN&FAT,COOKED,ROASTED",Non-vegetarian,Meat products,24.01,0,23.47,309.97
+"PORK,FRSH,LOIN,BLADE (CHOPS),BONE-IN,LN&FAT,COOKED,PAN-FRIED",Non-vegetarian,Meat products,27.74,0,21.49,335.62
+"PORK,FRSH,LOIN,COUNTRY-STYLE RIBS,LN&FAT,COOKED,ROASTED",Non-vegetarian,Meat products,25.34,0,23.4,321.66

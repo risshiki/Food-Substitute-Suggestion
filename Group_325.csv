@@ -1,0 +1,37 @@
+Food Item,Type,Category,Fats,Carbohydrates,Protein,Total Calories
+"CHEESE,RICOTTA,WHOLE MILK",Vegetarian,Milk and Milk Products,12.98,3.04,11.26,174.02
+"EGG,WHOLE,COOKED,FRIED",eggetarian,Poultry products,15,1.36,13.54,194.6
+"EGG,WHL,COOKED,SCRMBLD",eggetarian,Poultry products,12.21,2.2,11.09,163.05
+"EGG,DUCK,WHOLE,FRESH,RAW",eggetarian,Poultry products,13.77,1.45,12.81,180.97
+"EGG,GOOSE,WHOLE,FRESH,RAW",eggetarian,Poultry products,13.27,1.35,13.87,180.31
+CHEESE FONDUE,Vegetarian,Milk and Milk Products,13.47,3.77,14.23,193.23
+"CHEESE SAU,PREP FROM RECIPE",Vegetarian,Milk and Milk Products,14.92,5.48,10.33,197.52
+"BABYFOOD,MEAT,CHICKEN STKS,JUNIOR",Non-vegetarian,Miscellaneous,14.4,1.4,14.6,193.6
+"BABYFOOD,MEAT,TURKEY STKS,JUNIOR",Non-vegetarian,Miscellaneous,14.2,1.4,13.7,188.2
+"BABYFOOD,MEAT,MEAT STKS,JUNIOR",Non-vegetarian,Miscellaneous,14.6,1.1,13.4,189.4
+"CHICKEN,BROILERS OR FRYERS,THIGH,MEAT&SKIN,RAW",Non-vegetarian,Meat products,15.25,0,17.27,206.33
+"CHICKEN,ROASTING,MEAT&SKIN&GIBLETS&NECK,RAW",Non-vegetarian,Meat products,15.46,0.09,17.09,207.86
+"CHICKEN,ROASTING,MEAT&SKIN,RAW",Non-vegetarian,Meat products,15.85,0,17.14,211.21
+"DUCK,WILD,MEAT&SKIN,RAW",Non-vegetarian,Meat products,15.2,0,17.42,206.48
+"TURKEY,YOUNG HEN,BACK,MEAT&SKIN,RAW",Non-vegetarian,Meat products,15.93,0,17.51,213.41
+"POULTRY,MECHANICALLY DEBONED,FROM BACKS&NECKS WO/SKN,RAW",Non-vegetarian,Meat products,15.48,0,13.79,194.48
+"TURKEY,MECHANICALLY DEBONED,FROM TURKEY FRAMES,RAW",Non-vegetarian,Meat products,15.96,0,13.29,196.8
+"CHICKEN,CORNISH GAME HENS,MEAT&SKIN,RAW",Non-vegetarian,Meat products,14.02,0,17.15,194.78
+"BOLOGNA,TURKEY",Non-vegetarian,Meat products,15.21,0.97,13.73,195.69
+"HEADCHEESE,PORK",Non-vegetarian,Meat products,15.8,0.3,16,207.4
+"PATE,CHICKENEN LIVER,CANNED",Non-vegetarian,Meat products,13.1,6.55,13.45,197.9
+POULTRY SALAD SNDWCH SPRD,Non-vegetarian,Meat products,13.52,7.41,11.64,197.88
+"SALAMI,COOKED,TURKEY",Non-vegetarian,Meat products,13.8,0.55,16.37,191.88
+"OSCAR MAYER,BOLOGNA (BF LT)",Non-vegetarian,Meat products,14.2,6,11.7,198.6
+"OSCAR MAYER,BOLOGNA LT (PORK,CHICKEN,BF)",Non-vegetarian,Meat products,14.5,5.6,11.5,198.9
+"OSCAR MAYER,HAM (CHOPD W/NAT JUC)",Non-vegetarian,Meat products,12,3.1,16.1,184.8
+"OSCAR MAYER,HEAD CHEESE",Non-vegetarian,Meat products,13.5,0,15.7,184.3
+"OSCAR MAYER,SALAMI BF COTTO",Non-vegetarian,Meat products,15.7,1.9,14.2,205.7
+"OSCAR MAYER,WIENERS (BF FRANKS,LT)",Non-vegetarian,Meat products,14.9,4.1,10.7,193.3
+"OSCAR MAYER,WIENERS (LT PORK,TURKEY,BF)",Non-vegetarian,Meat products,14.9,2.8,12.1,193.7
+"LOUIS RICH,FRANKS (TURKEY&CHICK CHS)",Non-vegetarian,Meat products,14.5,5.1,12.7,201.7
+"LOUIS RICH,FRANKS (TURKEY&CHICK)",Non-vegetarian,Meat products,13.5,5.3,11.2,187.5
+"LOUIS RICH,TURKEY BOLOGNA",Non-vegetarian,Meat products,13.2,4.8,11.4,183.6
+"HORMEL SPAM,LITE LUNCHEON MEAT,PORK&CHICK,MINCED,CANNED,VIT C",Non-vegetarian,Meat products,13.9,1.35,15.23,191.42
+"PORK,FRSH,SHLDR,BLADE,BOSTON (ROASTS OR STEAKS),LN&FAT,RAW",Non-vegetarian,Meat products,15.82,0,17.66,213.02
+"PORK,CURED,HAM,REG (APPROX 13% FAT),CANNED,UNHTD",Non-vegetarian,Meat products,12.99,0.02,16.97,184.87

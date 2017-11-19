@@ -1,0 +1,20 @@
+Food Item,Type,Category,Fats,Carbohydrates,Protein,Total Calories
+"SOUP,CRM OF ASPARAGUS,DEHYD,DRY MIX",vegetarian,Miscellaneous,10.8,55.75,13.75,375.2
+"SOUP,CAULIFLOWER,DEHYD,DRY MIX",vegetarian,Miscellaneous,9.1,56.59,15.31,369.5
+"SOUP,CRM OF CELERY,DEHYD,DRY",vegetarian,Miscellaneous,9.3,55.9,15,367.3
+"SOUP,CHICKEN RICE MIX,DEHYD,DRY FORM",Non-vegetarian,Miscellaneous,8.89,57.09,15.07,368.65
+"SOUP,CLAM CHOWDER,MANHATTAN STYLE,DEHYD,DRY",Non-vegetarian,Miscellaneous,8.2,57.46,10.94,347.4
+"SOUP,LEEK,DEHYDRATED,DRY",vegetarian,Miscellaneous,10.9,60.78,11.25,386.22
+"SAUCE,BEARNAISE,DEHYD,DRY",eggetarian,Miscellaneous,9,59.74,14.06,376.2
+"SAUCE,MUSHROOM,DEHYD,DRY",vegetarian,Miscellaneous,9.5,54.72,14.38,361.9
+"SAUCE,STRAINEDOGANOFF,DEHYD,DRY",vegetarian,Miscellaneous,9.53,57.66,12.1,364.81
+"GRAVY,BROWN,DRY",Non-vegetarian,Miscellaneous,9.61,59.38,10.74,366.97
+"GRAVY,CHICKENEN,DRY",Non-vegetarian,Miscellaneous,9.73,62.09,11.27,381.01
+"GRAVY,UNSPEC TYPE,DRY",Non-vegetarian,Miscellaneous,8,58,13,356
+"SOUP,CHICKEN NOODLE MIX,DEHYD,DRY FORM",Non-vegetarian,Miscellaneous,9.05,60.44,13.88,378.73
+"SAUCE,HOLLANDAISE,W/VEG OIL,DEHYD,DRY",eggetarian,Miscellaneous,9.3,62.45,13.75,388.5
+"SOUP,LIPTON,SOUP SECRETS CHICK NOODLE,MIX,DRY",Non-vegetarian,Miscellaneous,9.91,56.52,17.31,384.51
+"SOUP,LIPTON,SOUP SECRETS RING-O-NOODLE",Non-vegetarian,Miscellaneous,11.65,58.28,12.96,389.81
+"SOUP,LIPTON,SOUP SECRETS GIGGLE NOODLE,MIX,DRY",Non-vegetarian,Miscellaneous,11.19,60.34,13.28,395.19
+"SOUP,LIPTON,CUP-A-SOUP CHICK NOODLE W/MEAT",Non-vegetarian,Miscellaneous,8.02,61.85,15.76,382.62
+"GRAVY,CUSTOM FOODS,SUPERB INST BF GRAVY MIX,DRY",Non-vegetarian,Miscellaneous,9.48,61.1,9.8,368.92
