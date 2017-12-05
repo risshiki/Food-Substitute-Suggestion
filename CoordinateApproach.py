@@ -30,6 +30,9 @@ for i in range(0,len(X)):
     final_clusters.append(int(X[i]//4 * 108 + Y[i]//9*10 + Z[i]//9))
 
 check_val = set(final_clusters)
+
+
+
 ##print(len(final_clusters))
 ##print(min(final_clusters))
 ##print(max(final_clusters))
