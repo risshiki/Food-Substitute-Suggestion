@@ -65,7 +65,9 @@ for key,value in cluster_table.items():
 print(final_cluster_table("BUTTER,WITH SALT"))
 
 ##
-##print(final_cluster_table["TURKEY,YOUNG HEN,MEAT ONLY,COOKED,ROASTED"])
+print(final_cluster_table["TURKEY,YOUNG HEN,MEAT ONLY,COOKED,ROASTED"])
+
+
 ##for key,value in final_cluster_table.items():
 ##    print(key)
 ##    print(value)

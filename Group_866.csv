@@ -1,7 +1,0 @@
-Food Item,Type,Category,Fats,Carbohydrates,Protein,Total Calories
-"CHEESE,CHEDDAR",Vegetarian,Milk and Milk Products,33.14,1.28,24.9,402.98
-"CHEESE,COLBY",Vegetarian,Milk and Milk Products,32.11,2.57,23.76,394.31
-"CHEESE,LOW-SODIUM,CHEDDAR OR COLBY",Vegetarian,Milk and Milk Products,32.62,1.91,24.35,398.62
-"SALAMI,DRY OR HARD,PORK",Non-vegetarian,Meat products,33.72,1.6,22.58,400.2
-"SALAMI,DRY OR HARD,PORK,BF",Non-vegetarian,Meat products,34.39,2.59,22.86,411.31
-"OSCAR MAYER,SALAMI (GENOA)",Non-vegetarian,Meat products,33.3,1.2,20.7,387.3
