@@ -1,5 +1,3 @@
-
-import numpy as np
 from csv import DictReader
 import csv
 
@@ -60,16 +58,26 @@ final_cluster_table = {}
 for key,value in cluster_table.items():
     final_cluster_table[key] = reverse_cluster_table[value]
 
-##
+
+# Try testing the substitute dictionary out here by substituting string values from Dataset.csv
+
 print(final_cluster_table["TURKEY,YOUNG HEN,MEAT ONLY,COOKED,ROASTED"])
+print(final_cluster_table["CHEESE,BLUE"])
+
+
+
+
+
+
+
+
+
+
 ##for key,value in final_cluster_table.items():
 ##    print(key)
 ##    print(value)
 
 ##
-
-print(final_cluster_table["CHEESE,BLUE"])
-
 ##
 ##header = ["Food Item","Type","Category","Fats","Carbohydrates","Protein","Total Calories"]
 ##x = 0
