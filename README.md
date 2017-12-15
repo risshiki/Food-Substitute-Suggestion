@@ -40,3 +40,11 @@ Food groups are indexed on that basis.
 
 While this approach works well with most inputs and inserts in O(1) time, a second alternative is being looked for as the code doesn't hold true 
 if an item with a value greater than the largest macronutrient value of our food item is encountred.
+
+
+EDIT 
+
+The previous approach is limited by an indexing limit on each axis. This may not be pragmatic if we're considering to add new elements to the data set.
+
+The integer equation is now replaced with a simple string equivalent of the same cluster numbers, seperated by comma seperated values instead of being indexed.
+
